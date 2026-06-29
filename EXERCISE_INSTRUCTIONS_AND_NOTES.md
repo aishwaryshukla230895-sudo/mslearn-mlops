@@ -51,7 +51,7 @@ To link this local folder (`C:\Users\Gaming pc\Desktop\AI300\GitHub_Actions`) to
 1. Open PowerShell or Command Prompt in this folder and point the git remote to your new GitHub repository:
    ```powershell
    cd "C:\Users\Gaming pc\Desktop\AI300\GitHub_Actions"
-   git remote set-url origin https://github.com/<your-github-username>/mslearn-mlops.git
+   git remote set-url origin https://github.com/aishwaryshukla230895-sudo/mslearn-mlops.git
    ```
 2. Commit and push the pre-applied exercise changes:
    ```powershell
